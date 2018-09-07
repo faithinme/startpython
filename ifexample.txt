@@ -1,0 +1,3 @@
+player=8
+if player>=8:
+    print "Players are greater than or equal to 8"
