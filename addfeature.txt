@@ -1,0 +1,2 @@
+players=8
+print "players"
