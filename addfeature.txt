@@ -1,2 +1,3 @@
 players=8
 print "players"
+print "Game is cancelled today"
