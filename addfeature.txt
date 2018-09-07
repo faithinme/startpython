@@ -1,3 +1,4 @@
 players=8
 print "players"
 print "Game is cancelled today"
+print "if rain stops, game will be resumed"
